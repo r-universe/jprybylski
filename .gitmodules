@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "pmxcv"]
+	path = pmxcv
+	url = https://github.com/jprybylski/pmxcv
 [submodule "xpose.xtras"]
 	path = xpose.xtras
 	url = https://github.com/jprybylski/xpose.xtras
